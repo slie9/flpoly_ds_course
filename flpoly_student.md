@@ -1,8 +1,8 @@
 ## Sydney Lieske
 
-### Term Year 
+### 2021 
 
-DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+DS student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
 - Course 1
 
