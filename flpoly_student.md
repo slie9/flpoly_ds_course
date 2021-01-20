@@ -1,23 +1,27 @@
 ## Sydney Lieske
 
-### 2021 
+### SP 2021 
 
 DS student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Introduction to Data Science	
 
-- Course 2
+- Cloud Implementation Strategies and Cloud Providers
 
-- Course 3
+- Computational Linear Algebra	
 
-- Course 4
+- Principles of Microeconomics
+
+- Physics 2
+
+- Physics 2 Lab
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Cooking
 
-- Thing 2
+- Video Games
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- STEM as shown in this website <https://www.floridapoly.edu>
