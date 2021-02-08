@@ -10,7 +10,7 @@ DS student at [Florida Polytechnic University](https://www.floridapoly.edu) curr
 |  **ECO**  |  **2023** |   *Principles of Microeconomics*       		     |    3   |
 |  **MAS**  |  **3114** |   *Computational Linear Algebra*   			     |    3   |
 |  **PHY**  |  **2049** |   *Physics 2*   					     |    3   |
-|  **PHY**  |  **2049L**|   *Physics 2 Laboratory*   				     |    3   |
+|  **PHY**  |  **2049L**|   *Physics 2 Laboratory*   				     |    1   |
 |  **CTS**  |  **2375** |   *Cloud Implementation Strategies and Cloud Providers*    |    3   |
 
 
